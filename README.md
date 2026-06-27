@@ -3,7 +3,7 @@ Hi, I'm Manish Rao, a Computer Science Engineering student with a passion for so
 <br><br>
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish._.rao_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manish-d-rao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Manish92144045) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishdrao1411@gmail.com) 
 
 # Tech Stack:
